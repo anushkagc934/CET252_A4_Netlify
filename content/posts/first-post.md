@@ -24,4 +24,4 @@ Anushka GC is a student who is building knowledge and practical skills in comput
 This portfolio will include class tasks, coursework, and personal practice projects.
 
 ## Contact
-More details and updates will be added soon hy lalu .
+More details and updates will be added soon hy pallavi goru  .
