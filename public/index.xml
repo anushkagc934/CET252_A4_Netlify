@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anushka GC Portfolio</title>
+      <link>//localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-anushka-gcs-portfolio&#34;&gt;Welcome to Anushka GC&amp;rsquo;s Portfolio&lt;/h1&gt;&#xA;&lt;p&gt;Hello, this is Anushka GC&amp;rsquo;s portfolio website.&lt;/p&gt;&#xA;&lt;p&gt;This website is created to present academic work, projects, skills, and personal achievements in a simple and professional way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;Anushka GC is a student who is building knowledge and practical skills in computing, web development, and digital technologies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;li&gt;Git and GitHub&lt;/li&gt;&#xA;&lt;li&gt;Hugo Static Site Generator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;&#xA;&lt;p&gt;This portfolio will include class tasks, coursework, and personal practice projects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
